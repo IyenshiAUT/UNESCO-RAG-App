@@ -19,7 +19,6 @@ static/
     js/script.js      # Custom JavaScript
 templates/
     index.html        # Main HTML template
-data/                 # (Optional) Directory for storing indexed data
 ```
 
 ## Prerequisites
@@ -32,7 +31,7 @@ data/                 # (Optional) Directory for storing indexed data
 
 ### 1. Clone the repository
 ```powershell
-git clone 
+git clone https://github.com/IyenshiAUT/UNESCO-RAG-App/blob/main/README.md
 cd "Unesco RAG App"
 ```
 
