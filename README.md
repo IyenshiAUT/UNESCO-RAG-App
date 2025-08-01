@@ -47,15 +47,35 @@ Follow these steps to get Heritage Compass running on your local machine.
 ### 2. Clone the Repository
 
 ```
+<<<<<<< HEAD
 git clone https://github.com/IyenshiAUT/UNESCO-RAG-App.git
 cd heritage-compass
 
+=======
+app.py                # Main Flask application
+fetch_and_index.py    # Script to fetch and index UNESCO data
+requirements.txt      # Python dependencies
+static/
+    css/style.css     # Custom styles
+    js/script.js      # Custom JavaScript
+templates/
+    index.html        # Main HTML template
+>>>>>>> a9662152db8344319c5c80663c8dd50cabdbd01a
 ```
 
 ### 3. Set Up a Virtual Environment
 
 It's highly recommended to use a virtual environment.
 
+<<<<<<< HEAD
+=======
+## Setup Instructions
+
+### 1. Clone the repository
+```powershell
+git clone https://github.com/IyenshiAUT/UNESCO-RAG-App/blob/main/README.md
+cd "Unesco RAG App"
+>>>>>>> a9662152db8344319c5c80663c8dd50cabdbd01a
 ```
 # Create the virtual environment
 python -m venv venv
