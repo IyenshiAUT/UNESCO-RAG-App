@@ -2,7 +2,7 @@
 
 Heritage Compass is an interactive, full-stack web application that acts as an AI-powered knowledge assistant for UNESCO World Heritage Sites. It leverages a sophisticated Retrieval-Augmented Generation (RAG) architecture to provide accurate, context-aware answers to complex user queries in multiple languages.
 
-
+![UI Image](./ui.png) 
 
 ## ✨ Key Features
 
