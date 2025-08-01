@@ -1,0 +1,9 @@
+flask
+langchain
+langchain-community
+ollama
+qdrant-client
+sentence-transformers
+beautifulsoup4
+requests
+wikipedia-api
