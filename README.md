@@ -2,7 +2,7 @@
 
 Heritage Compass is an interactive, full-stack web application that acts as an AI-powered knowledge assistant for UNESCO World Heritage Sites. It leverages a sophisticated Retrieval-Augmented Generation (RAG) architecture to provide accurate, context-aware answers to complex user queries in multiple languages.
 
-*(Suggestion: Replace this with a real screenshot of your application)*
+
 
 ## ✨ Key Features
 
@@ -49,7 +49,7 @@ Follow these steps to get Heritage Compass running on your local machine.
 ```
 <<<<<<< HEAD
 git clone https://github.com/IyenshiAUT/UNESCO-RAG-App.git
-cd heritage-compass
+cd "Unesco RAG app"
 
 =======
 app.py                # Main Flask application
@@ -67,7 +67,6 @@ templates/
 
 It's highly recommended to use a virtual environment.
 
-<<<<<<< HEAD
 =======
 ## Setup Instructions
 
@@ -75,7 +74,6 @@ It's highly recommended to use a virtual environment.
 ```powershell
 git clone https://github.com/IyenshiAUT/UNESCO-RAG-App/blob/main/README.md
 cd "Unesco RAG App"
->>>>>>> a9662152db8344319c5c80663c8dd50cabdbd01a
 ```
 # Create the virtual environment
 python -m venv venv
@@ -154,7 +152,7 @@ You should now see the Heritage Compass interface, ready to answer your question
 
 1. Navigate to the web interface.
 
-2. (Optional) Use the dropdown menus to filter by **Country** or **Category**.
+2. (Optional) Use the dropdown menus to filter by **Country**.
 
 3. Type your question into the input box at the bottom.
 
@@ -172,4 +170,4 @@ You should now see the Heritage Compass interface, ready to answer your question
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License.
